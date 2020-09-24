@@ -31,7 +31,7 @@ app.get("/", (req, res) => {
 //Setting up MailChimp
 mailchimp.setConfig({
     //*****************************ENTER YOUR API KEY HERE******************************
-    apiKey: "ec60751672f9750393f14eafa6a8be9d-us17",
+    apiKey: "insert api key here",
     //*****************************ENTER YOUR API KEY PREFIX HERE i.e.THE SERVER******************************
     server: "us17"
 });
